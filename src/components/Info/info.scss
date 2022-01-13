@@ -1,0 +1,37 @@
+.info {
+  padding-top: 70px;
+  padding-bottom: 60px;
+  position: relative;
+  &:after {
+    content: "";
+    width: 200px;
+    height: 1px;
+    background-color: #000;
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    transform: translateX(-50%);
+  }
+  &__inner {
+    display: flex;
+    justify-content: center;
+  }
+
+  &__img-wrap {
+    width: 100%;
+    max-width: 272px;
+    margin-right: 80px;
+  }
+
+  &__img {
+  }
+
+  &__content {
+    width: 100%;
+    max-width: 346px;
+    text-align: center;
+    p {
+      margin-bottom: 20px;
+    }
+  }
+}

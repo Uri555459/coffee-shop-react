@@ -1,0 +1,17 @@
+.footer {
+  padding: 30px 0 20px;
+  .logo {
+    span {
+      font-size: 12px;
+      color: #000;
+    }
+  }
+  .nav {
+    justify-content: center;
+    margin-bottom: 30px;
+    &__list-link {
+      font-size: 12px;
+      color: #000;
+    }
+  }
+}
