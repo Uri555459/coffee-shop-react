@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b26d6cbb.css",
+    "main.js": "/static/js/main.aa5722b5.js",
+    "static/media/our-bast-bg.jpg": "/static/media/our-bast-bg.dfc41d27bc990b95f96a.jpg",
+    "static/media/offer-bg.jpg": "/static/media/offer-bg.ad9c54d6db833396a159.jpg",
+    "static/media/our-coffee-bg.jpg": "/static/media/our-coffee-bg.e8094fc787f35d4856eb.jpg",
+    "static/media/for-your-pleasure-bg.jpg": "/static/media/for-your-pleasure-bg.291949b24ac3631a2ea8.jpg",
+    "static/media/about-beans-img.jpg": "/static/media/about-beans-img.e38076f6f691f57416d3.jpg",
+    "static/media/for-your-pleasure-img.jpg": "/static/media/for-your-pleasure-img.cd090b94334d8b2e649b.jpg",
+    "static/media/spinner.gif": "/static/media/spinner.e9202c75d969bfbffe5a.gif",
+    "static/media/logo.svg": "/static/media/logo.cf02dba558797e1d98be5e5f778bd767.svg",
+    "static/media/footer-logo.svg": "/static/media/footer-logo.750dd53cdcf920a2a59b532c3dce1ea9.svg",
+    "static/media/decore-white.svg": "/static/media/decore-white.44f497501e5a11a919ad526ccedfe140.svg",
+    "static/media/decore-black.svg": "/static/media/decore-black.6495e102f339fea011d73109cd7ebe54.svg",
+    "index.html": "/index.html",
+    "main.b26d6cbb.css.map": "/static/css/main.b26d6cbb.css.map",
+    "main.aa5722b5.js.map": "/static/js/main.aa5722b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b26d6cbb.css",
+    "static/js/main.aa5722b5.js"
+  ]
+}
