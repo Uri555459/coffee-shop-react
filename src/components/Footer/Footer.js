@@ -1,5 +1,5 @@
 import React from "react";
-import {Link, NavLink} from "react-router-dom";
+import { Link, NavLink } from "react-router-dom";
 import Decore from "../Decore/Decore";
 import logo from "../../footer-logo.svg";
 import './footer.scss'
@@ -12,7 +12,7 @@ const Footer = () => {
       <div className="container">
         <nav className="nav">
           <Link className='logo' to='/'>
-            <img src={logo} alt=""/>
+            <img src={logo} alt="" />
             <span>Coffee house</span>
           </Link>
           <ul className="nav__list">
