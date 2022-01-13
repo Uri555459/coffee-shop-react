@@ -10,7 +10,7 @@ const Header = () => {
     <div className="header__container container">
       <header className='header'>
         <nav className="nav">
-          <Link className='logo' to='/'>
+          <Link className='logo' to='/coffee-shop-react'>
             <img src={logo} alt="" />
             <span>Coffee house</span>
           </Link>
