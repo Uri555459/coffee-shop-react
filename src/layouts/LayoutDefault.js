@@ -13,10 +13,10 @@ const LayoutDefault = () => {
             <BrowserRouter>
                 <Header />
                 <Routes>
-                    <Route index path='/coffee-shop-react' element={<Home />} />
-                    <Route path='/coffee-shop-react/our-coffee' element={<OurCoffee />} />
-                    <Route path='/coffee-shop-react/for-your-pleasure' element={<ForYourPleasure />} />
-                    <Route path='/coffee-shop-react/single/:id' element={<Single />} />
+                    <Route path='/coffee-shop-react' element={<Home />} />
+                    <Route path='/our-coffee' element={<OurCoffee />} />
+                    <Route path='/for-your-pleasure' element={<ForYourPleasure />} />
+                    <Route path='/single/:id' element={<Single />} />
                     <Route path='*' element={<Page404 />} />
                 </Routes>
                 <Footer />

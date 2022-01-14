@@ -15,7 +15,7 @@ const Offer = ({ offerClassesBig, offerBg, decoreImg, title }) => {
               <Decore decoreImg={decoreImg} />
               <p className="offer__description">We makes every day full of energy and taste</p>
               <p className="offer__description">Want to try our beans?</p>
-              <Link className='offer__btn' to='/coffee-shop-react/our-coffee'>More</Link>
+              <Link className='offer__btn' to='/our-coffee'>More</Link>
             </>
           }
         </div>
