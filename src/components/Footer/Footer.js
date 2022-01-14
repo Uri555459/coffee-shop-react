@@ -11,7 +11,7 @@ const Footer = () => {
     <footer className="footer">
       <div className="container">
         <nav className="nav">
-          <Link className='logo' to='/'>
+          <Link className='logo' to='/coffee-shop-react'>
             <img src={logo} alt="" />
             <span>Coffee house</span>
           </Link>

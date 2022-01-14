@@ -13,7 +13,7 @@ const LayoutDefault = () => {
             <BrowserRouter>
                 <Header />
                 <Routes>
-                    <Route path='/' element={<Home />} />
+                    <Route path='/coffee-shop-react' element={<Home />} />
                     <Route path='/our-coffee' element={<OurCoffee />} />
                     <Route path='/for-your-pleasure' element={<ForYourPleasure />} />
                     <Route path='/single/:id' element={<Single />} />
