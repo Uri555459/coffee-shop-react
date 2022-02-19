@@ -5,7 +5,6 @@ import Decore from "../components/Decore/Decore";
 import Card from "../components/Card/Card";
 
 import decoreImgWhite from '../assets/images/decore-white.svg'
-import decoreImgBlack from '../assets/images/decore-black.svg'
 import ourBestImgBg from '../assets/images/home/our-bast-bg.jpg'
 
 import data from '../db.json'

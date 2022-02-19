@@ -4,8 +4,6 @@ import Decore from "../Decore/Decore";
 import logo from "../../footer-logo.svg";
 import './footer.scss'
 
-import decoreImg from '../../assets/images/decore-black.svg'
-
 const Footer = () => {
   return (
     <footer className="footer">

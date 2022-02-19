@@ -3,6 +3,7 @@
 }
 
 .header {
+  width: 100%;
   position: absolute;
   top: 0;
   left: 0;
@@ -45,3 +46,29 @@
 
 }
 
+@media (max-width: 576px) {
+  .header{
+    padding: 30px 15px 0;
+  }
+}
+
+@media (max-width: 425px) {
+  .header{
+    padding: 30px 15px 0;
+  }
+  .logo {
+    margin-bottom: 20px;
+  }
+  .nav {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    &__list {
+      &-item {
+        &:first-child {
+          margin-left: 0;
+        }
+      }
+    }
+  }
+}
